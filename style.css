@@ -8,7 +8,8 @@
 
 
   header {
-    padding-left: 15rem;
+    padding-left: 25rem;
+    padding-right: 25rem;
     padding-top: 5rem;
     border-bottom: 1px;
   }
@@ -24,3 +25,18 @@
     font-size: 40px;
   }
 
+.maintext {
+  padding-left: 35rem;
+  padding-right: 35rem;
+  padding-top: 4rem;
+}
+
+
+footer {
+  background-color: #1b1b1b;
+  color: rgb(219, 219, 219);
+  margin-top: 10rem;
+  padding-top: 5rem;
+  text-align: center;
+  padding-bottom: 4rem;
+}
