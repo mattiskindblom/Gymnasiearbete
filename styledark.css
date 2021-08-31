@@ -1,0 +1,42 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+  }
+
+
+  header {
+    padding-left: 25rem;
+    padding-right: 25rem;
+    padding-top: 5rem;
+    border-bottom: 1px;
+  }
+
+  h2 {
+    padding-top: 2rem;
+  }
+
+  span {
+    font-weight: 5;
+    color:rgb(0, 0, 0);
+    text-transform: uppercase;
+    font-size: 40px;
+  }
+
+.maintext {
+  padding-left: 35rem;
+  padding-right: 35rem;
+  padding-top: 4rem;
+}
+
+
+footer {
+  background-color: #1b1b1b;
+  color: rgb(219, 219, 219);
+  margin-top: 10rem;
+  padding-top: 5rem;
+  text-align: center;
+  padding-bottom: 4rem;
+}
